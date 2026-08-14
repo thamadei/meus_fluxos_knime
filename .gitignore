@@ -1,0 +1,4 @@
+**/internal/
+**/port_*/
+**/.knimelock
+**/knime.log
